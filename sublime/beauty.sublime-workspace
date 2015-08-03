@@ -1,0 +1,1143 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"curr",
+				"curr_patch"
+			],
+			[
+				"patches",
+				"patches_reversed"
+			],
+			[
+				"latest",
+				"latestVersionRisk"
+			],
+			[
+				"calculate",
+				"calculateLatestVersionRisk"
+			],
+			[
+				"path",
+				"patchVulnOutput"
+			],
+			[
+				"is",
+				"is_weekend"
+			],
+			[
+				"artic",
+				"article_source〔variable〕"
+			],
+			[
+				"time",
+				"times_source〔variable〕"
+			],
+			[
+				"arti",
+				"article"
+			],
+			[
+				"view",
+				"view_type〔argument〕"
+			],
+			[
+				"new",
+				"new_articles〔variable〕"
+			],
+			[
+				"def",
+				"defaultdict〔module〕"
+			],
+			[
+				"_",
+				"_FEATURES"
+			],
+			[
+				"art",
+				"article_year"
+			],
+			[
+				"per",
+				"percentiles〔variable〕"
+			],
+			[
+				"get",
+				"get_percentiles〔function〕"
+			],
+			[
+				"year",
+				"year_total_counter〔variable〕"
+			],
+			[
+				"yea",
+				"year_missing_counter〔variable〕"
+			],
+			[
+				"old",
+				"old_article_hash〔variable〕"
+			],
+			[
+				"viewc",
+				"viewcount_source"
+			],
+			[
+				"pic_co",
+				"pic_counts〔argument〕"
+			],
+			[
+				"feat",
+				"feature"
+			],
+			[
+				"data",
+				"data_dict〔argument〕"
+			],
+			[
+				"sele",
+				"selector"
+			],
+			[
+				"pic",
+				"pic_counts〔argument〕"
+			],
+			[
+				"to",
+				"to_feature_dict〔function〕"
+			],
+			[
+				"len",
+				"length〔argument〕"
+			],
+			[
+				"Transformer",
+				"TransformerMixin"
+			],
+			[
+				"Ver",
+				"VeryUnpopular"
+			],
+			[
+				"compl",
+				"complete_filename〔variable〕"
+			],
+			[
+				"la",
+				"labeled_filename〔variable〕"
+			],
+			[
+				"cl",
+				"classifier〔variable〕"
+			],
+			[
+				"print",
+				"print_f1〔function〕"
+			],
+			[
+				"class",
+				"classifier"
+			],
+			[
+				"X_t",
+				"X_train"
+			],
+			[
+				"show",
+				"show_confusion_matric〔function〕"
+			],
+			[
+				"y_",
+				"y_train"
+			],
+			[
+				"X",
+				"X_train"
+			],
+			[
+				"y",
+				"y_train"
+			],
+			[
+				"pred",
+				"prediction"
+			],
+			[
+				"write",
+				"write_data"
+			],
+			[
+				"my",
+				"my_fwrite"
+			],
+			[
+				"fp",
+				"fprintf	fprintf …"
+			],
+			[
+				"Do",
+				"DoProgress"
+			],
+			[
+				"std",
+				"stderr"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"dl",
+				"dltotal"
+			],
+			[
+				"curl",
+				"curl_easy_setopt"
+			],
+			[
+				"downl",
+				"download_json"
+			],
+			[
+				"rec",
+				"recognize_from_microphone"
+			],
+			[
+				"ver",
+				"version"
+			],
+			[
+				"tree",
+				"trees〔variable〕"
+			],
+			[
+				"previous",
+				"previous_version"
+			],
+			[
+				"req",
+				"require〔function〕"
+			],
+			[
+				"CL",
+				"CLIENT_SECRET"
+			],
+			[
+				"CLIEN",
+				"CLIENT_SECRET〔variable〕"
+			],
+			[
+				"CLI",
+				"CLIENT_ID〔variable〕"
+			],
+			[
+				"sy",
+				"synchronize"
+			],
+			[
+				"encod",
+				"encoded_album〔variable〕"
+			],
+			[
+				"tra",
+				"tracks〔variable〕"
+			],
+			[
+				"tr",
+				"tracks"
+			],
+			[
+				"spo",
+				"spotify_id〔variable〕"
+			],
+			[
+				"spot",
+				"spotify_id"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"res",
+				"response〔variable〕"
+			],
+			[
+				"enco",
+				"encoded_album〔variable〕"
+			],
+			[
+				"al",
+				"album"
+			],
+			[
+				"Ch",
+				"CHECK_VERSION_TREE"
+			],
+			[
+				"prev",
+				"previous_version"
+			],
+			[
+				"nex",
+				"next_ver_hash〔variable〕"
+			],
+			[
+				"ne",
+				"next_ver_hash"
+			],
+			[
+				"pre",
+				"prev_ver_hash"
+			],
+			[
+				"while",
+				"while	while ... end"
+			],
+			[
+				"gs",
+				"gsub"
+			],
+			[
+				"small",
+				"small_picurl〔variable〕"
+			],
+			[
+				"p",
+				"picurl"
+			],
+			[
+				"br",
+				"browsers"
+			],
+			[
+				"article",
+				"article_page〔variable〕"
+			],
+			[
+				"object",
+				"object_class"
+			],
+			[
+				"ARG",
+				"ARGV〔variable〕"
+			],
+			[
+				"autho",
+				"author_comment"
+			],
+			[
+				"auth",
+				"author〔variable〕"
+			],
+			[
+				"js",
+				"js_reply"
+			],
+			[
+				"bra",
+				"branch_regex〔variable〕"
+			],
+			[
+				"ar",
+				"article_page"
+			],
+			[
+				"del",
+				"delimiter"
+			],
+			[
+				"lette",
+				"letter_to_del"
+			],
+			[
+				"longest",
+				"longest_substring_wtih_m_uniq_chars_1"
+			],
+			[
+				"lon",
+				"longest_sustring_with_m_uniq_chars"
+			],
+			[
+				"find",
+				"find_distinct_pairs_that_equal_sum"
+			],
+			[
+				"total",
+				"totalValue"
+			],
+			[
+				"coin",
+				"coin_slot"
+			],
+			[
+				"num",
+				"num_coins"
+			],
+			[
+				"max",
+				"max〔function〕"
+			],
+			[
+				"max_",
+				"max_start"
+			],
+			[
+				"findsub",
+				"find_subset_where_diff_of_max_and_min_is_0_or_1"
+			],
+			[
+				"dic",
+				"dictionary"
+			],
+			[
+				"word",
+				"word_ladder"
+			],
+			[
+				"rep",
+				"replace"
+			],
+			[
+				"min",
+				"min〔function〕"
+			],
+			[
+				"M",
+				"MISS"
+			],
+			[
+				"for",
+				"for	For Loop"
+			],
+			[
+				"bal",
+				"ball_tail_graph1〔function〕"
+			],
+			[
+				"ball",
+				"ball_tail_graph〔function〕"
+			],
+			[
+				"av",
+				"avg_dist〔function〕"
+			],
+			[
+				"subf",
+				"subfunction"
+			],
+			[
+				"setname",
+				"set-name"
+			],
+			[
+				"list",
+				"list-contains"
+			],
+			[
+				"cond",
+				"condition"
+			],
+			[
+				"current",
+				"currentof-officers"
+			],
+			[
+				"con",
+				"condition1"
+			],
+			[
+				"remo",
+				"remove-from-list"
+			],
+			[
+				"setna",
+				"set-name"
+			],
+			[
+				"setn",
+				"set-name"
+			],
+			[
+				"set",
+				"set-name"
+			],
+			[
+				"reverse",
+				"reverse"
+			],
+			[
+				"sortby",
+				"sortby-node1"
+			],
+			[
+				"rem",
+				"remove-from-list"
+			],
+			[
+				"pop",
+				"populate-symbol-plist-with-func-on-list"
+			],
+			[
+				"sort",
+				"sort-plist-by-value"
+			],
+			[
+				"clause",
+				"clause1"
+			],
+			[
+				"map",
+				"map-on-plist"
+			],
+			[
+				"getno",
+				"get_nodes_helper"
+			],
+			[
+				"so",
+				"sortlisthelper"
+			],
+			[
+				"sor",
+				"sorter-third"
+			],
+			[
+				"at",
+				"atlastdigit"
+			],
+			[
+				"kth",
+				"kthleast2"
+			],
+			[
+				"cons",
+				"cons_treep"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/JSLint/JSLint.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/JSLint/JSLint.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/JSLint/JSLint.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Ruby/Ruby.sublime-build",
+					""
+				],
+				[
+					"Packages/JSLint/JSLint.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Ruby/Ruby.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"last_filter": "forma",
+		"selected_items":
+		[
+			[
+				"forma",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"format",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"code",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"upda",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 167.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Ali/Documents/Projects/Websites/beauty"
+	],
+	"file_history":
+	[
+		"/Users/Ali/Desktop/noun_85520_cc.svg",
+		"/Users/Ali/Desktop/noun_99_cc.svg",
+		"/Users/Ali/Documents/Programs/Xcode/Pitchfork Best New Music/README.md",
+		"/Volumes/vacancy.cs.umd.edu/pkgmgr/synaptic/synaptic-0.81.1/common/rpackagelister.cc",
+		"/Volumes/vacancy.cs.umd.edu/pkgmgr/synaptic/synaptic-0.81.1/gtk/rgpackagestatus.h",
+		"/Volumes/vacancy.cs.umd.edu/pkgmgr/synaptic/synaptic-0.81.1/gtk/rgpackagestatus.cc",
+		"/Volumes/vacancy.cs.umd.edu/pkgmgr/synaptic/synaptic-0.81.1/common/rpackage.cc",
+		"/Volumes/vacancy.cs.umd.edu/pkgmgr/synaptic/synaptic-0.81.1/common/jsonparse.cc",
+		"/Volumes/vacancy.cs.umd.edu/pkgmgr/synaptic/synaptic-0.81.1/gtk/rgpkgdetails.cc",
+		"/Volumes/vacancy.cs.umd.edu/pkgmgr/synaptic/synaptic-0.81.1/common/rvinfo.h",
+		"/Volumes/vacancy.cs.umd.edu/pkgmgr/synaptic/synaptic-0.81.1/common/rvinfo.cc",
+		"/Volumes/vacancy.cs.umd.edu/pkgmgr/synaptic/synaptic-0.81.1/README.security",
+		"/Volumes/vacancy.cs.umd.edu/pkgmgr/synaptic/synaptic-0.81.1/synaptic.sublime-project",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/192D70AD-F2AA-4525-90B3-34345D201364/security_bundles.json",
+		"/Volumes/vacancy.cs.umd.edu/pkgmgr/synaptic/synaptic-0.81.1/common/jsonparse.h",
+		"/Volumes/vacancy.cs.umd.edu/pkgmgr/synaptic/synaptic-0.81.1/gtk/rgpkgdetails.h",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/3104242A-2923-460B-8C8B-2E6F11B51FA0/security_bundles.json",
+		"/Volumes/vacancy.cs.umd.edu/pkgmgr/synaptic/synaptic-0.81.1/gtk/rgpkgtreeview.cc",
+		"/Volumes/vacancy.cs.umd.edu/pkgmgr/synaptic/synaptic-0.81.1/gtk/rgutils.h",
+		"/Volumes/vacancy.cs.umd.edu/pkgmgr/synaptic/synaptic-0.81.1/gtk/rgutils.cc",
+		"/Volumes/vacancy.cs.umd.edu/pkgmgr/synaptic/synaptic-0.81.1/gtk/rgpkgtreeview.h",
+		"/Volumes/vacancy.cs.umd.edu/pkgmgr/synaptic/synaptic-0.81.1/gtk/gtkpkglist.cc",
+		"/Volumes/vacancy.cs.umd.edu/pkgmgr/synaptic/synaptic-0.81.1/gtk/rgmainwindow.cc",
+		"/Volumes/vacancy.cs.umd.edu/pkgmgr/synaptic/synaptic-0.81.1/gtk/rgpreferenceswindow.cc",
+		"/Volumes/vacancy.cs.umd.edu/pkgmgr/synaptic/synaptic-0.81.1/common/rpackagestatus.cc",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/DF96B309-519E-44B2-A511-2885C984C965/security_bundles.json",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/8CD4B3B3-EEEF-49D2-A9E3-A2434060C6B3/jsonparse.cc",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/2E684601-E8DC-4F9A-84C3-B1BD5A151138/gtkpkglist.cc",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/63A889F3-577B-4BAB-BB0E-0AF4DDE4859A/rpackage.cc",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/8D5424CA-318B-4433-9914-D7EC90AED5F7/rgchangeswindow.cc",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/EBE4645B-E7EF-4E2C-8484-DA6921845A04/rgsummarywindow.cc",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/651AB85E-82EB-4DA4-83B8-ECFC2108EF8E/README.security",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/FE37C716-3928-4377-A719-77540FD0F3EC/rgpackagestatus.cc",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/49CDB496-44AE-42F9-9ECC-9D91EDDCDCD1/rvinfo.h",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/6B9F6970-D6CE-4A4A-A2A5-57F4251693B3/rvinfo.cc",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/50BECCBD-26A4-4736-A570-FD312EC15488/rpackagelister.cc",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/FDC44242-2759-450F-A0EB-51999060E5A5/gtktagtree.cc",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/065146F9-7A69-495E-AC01-104E58275594/rvulnerability.cc",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/33F39608-2BA4-44F2-AF28-9FE5FDABC622/rpatch.cc",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/031AD534-480C-4212-87C5-4B9CC372AEFC/sec2.json",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/8E548575-A3C8-49B0-967A-DC9D00039934/security_bundles.json",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/CEFBB321-34B1-4A90-ABDA-043D8715EBDE/security_bundles.json",
+		"/Users/Ali/Desktop/Security Synaptic/synaptic/synaptic-0.81.1/README.security",
+		"/Users/Ali/Google Drive/_UMD/CMSC435/Package Manager/synaptic/synaptic-0.81.1/README.security",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/FD96874C-B143-497F-B69B-76689668B913/README.security",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/59176903-61AF-450C-9680-35F18EAA7CDE/rpackage.cc",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/25F43284-1041-497C-B8D2-8C522C8BC319/jsonparse.cc",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/B200BDBA-7918-4DB1-8AA3-BE6AD852A5D9/rvinfo.cc",
+		"/Users/Ali/Documents/Programs/Unity/Hair/README.md",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/2AFD208E-F002-4523-BCFB-E46C4E34627F/README.security",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/6659599F-B98B-48A6-BA2C-7C69793F08E4/.profile",
+		"/Users/Ali/Documents/Programs/Unity/Hair/Assets/Standard Assets/SpeechRecognition.js",
+		"/Users/Ali/Documents/Programs/Unity/Hair/Assets/MicControl/Javascript version (original)/MicControl.js",
+		"/Users/Ali/Desktop/pocketshipnx-5prealpha/src/libpocketsphinx/Makefile.am",
+		"/Users/Ali/Desktop/sphinxbase/src/libsphinxbase/util/cmd_ln.c",
+		"/Users/Ali/Desktop/pocketshipnx-5prealpha/src/programs/continuous_unity.c",
+		"/Users/Ali/Desktop/pocketshipnx-5prealpha/src/programs/continuous.c",
+		"/Users/Ali/Desktop/pocketshipnx-5prealpha/src/Makefile.am",
+		"/Users/Ali/Desktop/pocketshipnx-5prealpha/Makefile.am",
+		"/Users/Ali/Desktop/pocketshipnx-5prealpha/include/pocketsphinx_export.h",
+		"/Users/Ali/Desktop/pocketshipnx-5prealpha/include/Makefile.am",
+		"/Users/Ali/Desktop/pocketshipnx-5prealpha/include/pocketsphinx.h",
+		"/Users/Ali/Desktop/pocketshipnx-5prealpha/src/programs/Makefile.am",
+		"/Users/Ali/Desktop/sphinxbase/include/sphinxbase/cmd_ln.h",
+		"/Users/Ali/Desktop/pocketshipnx-5prealpha/include/cmdln_macro.h",
+		"/Users/Ali/Desktop/pocketshipnx-5prealpha/include/ps_lattice.h",
+		"/Users/Ali/Desktop/pocketshipnx-5prealpha/src/libpocketsphinx/acmod.c",
+		"/Users/Ali/Desktop/pocketshipnx-5prealpha/src/programs/Makefile.in",
+		"/Users/Ali/Desktop/pocketshipnx-5prealpha/doc/Makefile.am",
+		"/Users/Ali/Desktop/pocketshipnx-5prealpha/autogen.sh",
+		"/Users/Ali/Desktop/pocketshipnx-5prealpha/Makefile",
+		"/Users/Ali/Desktop/pocketshipnx-5prealpha/Makefile.in",
+		"/Users/Ali/Google Drive/_UMD/CMSC435/alie/eng-log.html",
+		"/Users/Ali/Google Drive/_UMD/CMSC435/Package Manager/description.html",
+		"/Users/Ali/Desktop/pocketshipnx-5prealpha/src/libpocketsphinx/Makefile.in",
+		"/Users/Ali/Desktop/pocketshipnx-5prealpha/src/libpocketsphinx/Makefile",
+		"/Users/Ali/Desktop/pocketshipnx-5prealpha/configure.ac",
+		"/Users/Ali/Desktop/pocketshipnx-5prealpha/src/libpocketsphinx/pocketsphinx.c",
+		"/usr/local/include/pocketsphinx/pocketsphinx.h",
+		"/usr/local/include/pocketsphinx/pocketsphinx_export.h",
+		"/Users/Ali/Google Drive/Gawker/proposal/prop.tex",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/pipeline.py",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/dataset.py",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/README.md",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/scripts/scrape.rb",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/scripts/add_viewcounts.rb",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/scripts/find_diff.rb",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/scripts/addViewCounts.rb",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/transformers.py",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/label.py",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/hetero_feature_union.py",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/scripts/add_weekend_hour.rb",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/scripts/read.rb",
+		"/Users/Ali/Google Drive/Gawker/article_times.json",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/grid_search.py",
+		"/Users/Ali/Google Drive/_UMD/CMSC425/game_programming_hw.py",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/C0643D40-A705-41F1-8380-7A953E1BD4C0/rglogview.cc",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/45099DC0-3363-4DF7-9657-EB4C51BE31D9/synaptic.conf",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/linear_regression.py",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/FCFA92CE-55C4-4C4C-9652-9A8F9784E97D/gsynaptic.cc",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/FA23BCA9-833F-4DEE-971A-CC513D4428A4/synaptic.conf",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/B81D579B-9BED-4189-8020-B8F49AA44AFD/Makefile",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/EF84FC53-79EC-4D30-BBD0-EF7FC5D2BC44/security_bundles.json",
+		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/3BA581DD-07A9-4811-8F98-DECF9D95056F/synaptic.conf",
+		"/Users/Ali/Library/Caches/com.binarynights.ForkLift2/#0/gsynaptic.cc",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/svm.py",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/logistic_regression.py",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/pca.py",
+		"/Users/Ali/Library/Caches/com.binarynights.ForkLift2/#4/gsynaptic.cc",
+		"/Users/Ali/Library/Caches/com.binarynights.ForkLift2/#2/gsynaptic.cc",
+		"/Users/Ali/Library/Caches/com.binarynights.ForkLift2/#3/gsynaptic.cc",
+		"/Users/Ali/Library/Caches/com.binarynights.ForkLift2/#1/gsynaptic.cc",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/scripts/proper_nouns.rb",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/scripts/proper_nouns.py",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/output/articles.json",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/scripts/viewcounts.sh",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/output/viewcounts.json",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/input/filtered_gawker_urls.txt",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/output/articles_labeled.json",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/get_percentiles.py",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/scripts/cleanArticles.rb",
+		"/Users/Ali/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/pipline.py",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/__init__.py",
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/scikit.py",
+		"/Users/Ali/Google Drive/_UMD/CMSC435/Package Manager/server/generate_security_bundles.rb",
+		"/Users/Ali/Google Drive/_UMD/CMSC435/Package Manager/server/type1/type1preprocessing.rb",
+		"/Users/Ali/Google Drive/_UMD/CMSC435/Package Manager/server/type2/type2preproccessing.rb"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"risk",
+			"getriskforversion",
+			"patch_v_text",
+			"latestVulnText",
+			"latestVersionVulnText",
+			"curr_v_text",
+			"patch_v_text",
+			"curr_v_text",
+			"v_order",
+			"latest_v_risk",
+			"vulns",
+			"tobepatched",
+			"tobe",
+			"vulns",
+			"currVulnOutput",
+			"latest_vulns",
+			"curr_v_risk",
+			"c",
+			"vulnFixed",
+			"fixes",
+			"patch_risk",
+			"prev_version",
+			"patch_risk",
+			"prev_version",
+			"patch_version",
+			"version",
+			"patchVulns",
+			"currVulns",
+			"curr",
+			"risk",
+			"php5",
+			"RISK_COLUMN",
+			"risk",
+			"g_value_set_object",
+			"risk",
+			"getrisk",
+			"gtk_pkg_list_get_value",
+			"risk",
+			"getRisk",
+			"risk",
+			"getrisk",
+			"risk",
+			"php5",
+			"risk",
+			"getCurrRisk",
+			"getUpdatedRisk",
+			"updated_risk",
+			"getUpdatedRisk",
+			"updated_risk",
+			";\n",
+			"updated_risk",
+			"curr_risk",
+			"max",
+			"=",
+			"order",
+			"patches",
+			"          =",
+			"a",
+			"php5",
+			"5.4.36",
+			"php5",
+			"risk",
+			"–",
+			"audioComp",
+			"audioSource",
+			"audio.",
+			"f",
+			"stdout",
+			"fname",
+			"cmd_ln_t",
+			"cmd_ln_parse",
+			"hello",
+			"_unity",
+			"_continuous",
+			"_unity",
+			"_continuous",
+			"continuous",
+			"listen",
+			"print_word",
+			"check",
+			"continuous.c",
+			"pocketsphinx_continuous_LDADD",
+			"600px",
+			"900px",
+			"libpocketsphinx",
+			"lib",
+			"get_hyp",
+			"output",
+			"viewcount_source",
+			"map",
+			"article_source",
+			"ARTICLE_SOURCE",
+			"viewcount_source",
+			"updated",
+			"old",
+			"boundaries",
+			"110091",
+			"e['id']",
+			"uninstall",
+			"find",
+			"default",
+			"defaultdistro",
+			"find",
+			"json",
+			"curl",
+			"print",
+			">>>",
+			"551770",
+			"is",
+			"_feat",
+			"_feate",
+			"05",
+			"year",
+			"_features",
+			"viewType",
+			"20000",
+			"10000",
+			"5000",
+			"1000",
+			"d",
+			"2007",
+			"2006",
+			"elif year is \"2006\":\n        if views < 1000:\n            article[u'label'] = Label.VeryUnpopular\n        elif views < 5000:\n            article[u'label'] = Label.Unpopular\n        elif views < 10000:\n            article[u'label'] = Label.Average\n        elif views < 20000:\n            article[u'label'] = Label.Popular\n        else:\n            article[u'label'] = Label.VeryPopular",
+			"year_counter",
+			"years_counter",
+			"years",
+			"defamer",
+			"labeled_filename"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"best_new_music\"",
+			"\"year\"",
+			"\"review_date\"",
+			"\"article_text\"",
+			"\"author\"",
+			"\"score\"",
+			"\"label\"",
+			"\"album\"",
+			"\"artist\"",
+			"\"url\"",
+			"onDoorTweenEnd",
+			"onFloorTweenEnd",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 305.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 329.0
+	},
+	"pinned_build_system": "",
+	"project": "beauty.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rvinfo",
+				"common/rvinfo.h"
+			],
+			[
+				"rgut",
+				"gtk/rgutils.h"
+			],
+			[
+				"rguti",
+				"gtk/rgutils.cc"
+			],
+			[
+				"rgpktree",
+				"gtk/rgpkgtreeview.h"
+			],
+			[
+				"readme",
+				"README.security"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cmd_lnset",
+				"cmd_ln_set_str_r"
+			],
+			[
+				"cmdlnparse",
+				"cmd_ln_parse_r"
+			],
+			[
+				"cmd",
+				"cmd_ln_access_r"
+			],
+			[
+				"cmd_ln_set",
+				"cmd_ln_set_int_r"
+			],
+			[
+				"cmdsetint",
+				"cmd_ln_set_int_r"
+			],
+			[
+				"cmd_bool",
+				"cmd_ln_set_boolean_r"
+			],
+			[
+				"cmd_ln_",
+				"cmd_ln_set_boolean"
+			],
+			[
+				"cms_ln_",
+				"cmd_ln_set_boolean_r"
+			],
+			[
+				"cms",
+				"cmd_ln_set_boolean_r"
+			],
+			[
+				"cms_ln",
+				"cmd_ln_set_boolean_r"
+			],
+			[
+				"cmd_ln",
+				"cmd_ln_set_boolean"
+			],
+			[
+				"cmd_ln_parse",
+				"cmd_ln_parse_r"
+			]
+		],
+		"width": 638.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

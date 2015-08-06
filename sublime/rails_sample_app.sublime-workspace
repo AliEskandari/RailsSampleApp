@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"validat",
+				"validates"
+			],
+			[
 				"curr",
 				"curr_patch"
 			],
@@ -510,10 +514,6 @@
 			[
 				"kth",
 				"kthleast2"
-			],
-			[
-				"cons",
-				"cons_treep"
 			]
 		]
 	},
@@ -592,19 +592,47 @@
 	"command_palette":
 	{
 		"height": 187.0,
-		"last_filter": "forma",
+		"last_filter": "format",
 		"selected_items":
 		[
 			[
-				"forma",
-				"SublimeAStyleFormatter: Format Current File"
+				"format",
+				"CodeFormatter: Format as HTML Syntax"
 			],
 			[
-				"format",
-				"SublimeAStyleFormatter: Format Current File"
+				"bea",
+				"BeautifyRuby"
+			],
+			[
+				"beaut",
+				"BeautifyRuby"
 			],
 			[
 				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"",
+				"BeautifyRuby"
+			],
+			[
+				"form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"beau",
+				"BeautifyRuby"
+			],
+			[
+				"codefr",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"instll",
 				"Package Control: Install Package"
 			],
 			[
@@ -644,7 +672,7 @@
 				"Package Control: Remove Package"
 			]
 		],
-		"width": 449.0
+		"width": 593.0
 	},
 	"console":
 	{
@@ -669,6 +697,26 @@
 	],
 	"file_history":
 	[
+		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/app/views/users/new.html.erb",
+		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/app/helpers/users_helper.rb",
+		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/test/integration/users_signup_test.rb",
+		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/app/views/shared/_error_messages.html.erb",
+		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/app/controllers/users_controller.rb",
+		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/test/models/user_test.rb",
+		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/app/assets/stylesheets/custom.css.scss",
+		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/config/routes.rb",
+		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/app/views/users/show.html.erb",
+		"/Users/Ali/Library/Application Support/Sublime Text 3/Packages/User/BeautifyRuby.sublime-settings",
+		"/Users/Ali/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Ali/Library/Application Support/Sublime Text 3/Packages/User/Ruby.sublime-settings",
+		"/Users/Ali/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Ali/Library/Application Support/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
+		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/app/views/layouts/application.html.erb",
+		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/app/models/user.rb",
+		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/Gemfile",
+		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/config/application.rb",
+		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/db/migrate/20150805190542_add_password_digest_to_users.rb",
+		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/config/initializers/session_store.rb",
 		"/Users/Ali/Desktop/noun_85520_cc.svg",
 		"/Users/Ali/Desktop/noun_99_cc.svg",
 		"/Users/Ali/Documents/Programs/Xcode/Pitchfork Best New Music/README.md",
@@ -776,31 +824,11 @@
 		"/Users/Ali/Library/Caches/com.binarynights.ForkLift2/#0/gsynaptic.cc",
 		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/svm.py",
 		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/logistic_regression.py",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/pca.py",
-		"/Users/Ali/Library/Caches/com.binarynights.ForkLift2/#4/gsynaptic.cc",
-		"/Users/Ali/Library/Caches/com.binarynights.ForkLift2/#2/gsynaptic.cc",
-		"/Users/Ali/Library/Caches/com.binarynights.ForkLift2/#3/gsynaptic.cc",
-		"/Users/Ali/Library/Caches/com.binarynights.ForkLift2/#1/gsynaptic.cc",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/scripts/proper_nouns.rb",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/scripts/proper_nouns.py",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/output/articles.json",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/scripts/viewcounts.sh",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/output/viewcounts.json",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/input/filtered_gawker_urls.txt",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/output/articles_labeled.json",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/get_percentiles.py",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/scripts/cleanArticles.rb",
-		"/Users/Ali/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/pipline.py",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/__init__.py",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/scikit.py",
-		"/Users/Ali/Google Drive/_UMD/CMSC435/Package Manager/server/generate_security_bundles.rb",
-		"/Users/Ali/Google Drive/_UMD/CMSC435/Package Manager/server/type1/type1preprocessing.rb",
-		"/Users/Ali/Google Drive/_UMD/CMSC435/Package Manager/server/type2/type2preproccessing.rb"
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/pca.py"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -815,6 +843,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Rails",
+			"pass",
+			"email",
+			"name",
+			"end",
+			" 	\"",
+			"rails",
 			"risk",
 			"getriskforversion",
 			"patch_v_text",
@@ -935,14 +970,7 @@
 			"5000",
 			"1000",
 			"d",
-			"2007",
-			"2006",
-			"elif year is \"2006\":\n        if views < 1000:\n            article[u'label'] = Label.VeryUnpopular\n        elif views < 5000:\n            article[u'label'] = Label.Unpopular\n        elif views < 10000:\n            article[u'label'] = Label.Average\n        elif views < 20000:\n            article[u'label'] = Label.Popular\n        else:\n            article[u'label'] = Label.VeryPopular",
-			"year_counter",
-			"years_counter",
-			"years",
-			"defamer",
-			"labeled_filename"
+			"2007"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -980,7 +1008,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 34.0
 	},
 	"input":
 	{
@@ -1039,6 +1067,54 @@
 		"selected_items":
 		[
 			[
+				"usertest",
+				"test/models/user_test.rb"
+			],
+			[
+				"new.",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"users",
+				"app/helpers/users_helper.rb"
+			],
+			[
+				"userscontr",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"routs",
+				"config/routes.rb"
+			],
+			[
+				"custom",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"applic",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"gemfil",
+				"Gemfile"
+			],
+			[
+				"add",
+				"db/migrate/20150805190542_add_password_digest_to_users.rb"
+			],
+			[
+				"applicatino",
+				"config/application.rb"
+			],
+			[
+				"sess",
+				"config/initializers/session_store.rb"
+			],
+			[
 				"rvinfo",
 				"common/rvinfo.h"
 			],
@@ -1072,10 +1148,14 @@
 	},
 	"select_symbol":
 	{
-		"height": 392.0,
-		"last_filter": "",
+		"height": 47.0,
+		"last_filter": "beauty",
 		"selected_items":
 		[
+			[
+				"beauty",
+				"Beauty"
+			],
 			[
 				"cmd_lnset",
 				"cmd_ln_set_str_r"
@@ -1125,7 +1205,7 @@
 				"cmd_ln_parse_r"
 			]
 		],
-		"width": 638.0
+		"width": 392.0
 	},
 	"selected_group": 0,
 	"settings":
@@ -1134,7 +1214,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 238.0,
 	"status_bar_visible": true,
 	"template_settings":

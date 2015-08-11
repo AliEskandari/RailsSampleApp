@@ -20,7 +20,7 @@ class UsersSignupTest < ActionDispatch::IntegrationTest
   end
 
   test 'valid signup information' do
-    assert_difference 'Users.count', 1 do
+    assert_difference 'User.count', 1 do
       post_via_redirect users_path, {
         user: {
           name:                   "amir esk",
@@ -32,5 +32,6 @@ class UsersSignupTest < ActionDispatch::IntegrationTest
 
     end
     assert_template 'users/show'
+    assert is_logged_in?
   end
 end

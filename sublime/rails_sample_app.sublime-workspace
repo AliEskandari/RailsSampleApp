@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"mess",
+				"message_type"
+			],
+			[
 				"validat",
 				"validates"
 			],
@@ -510,10 +514,6 @@
 			[
 				"at",
 				"atlastdigit"
-			],
-			[
-				"kth",
-				"kthleast2"
 			]
 		]
 	},
@@ -591,10 +591,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 187.0,
-		"last_filter": "format",
+		"height": 227.0,
+		"last_filter": "beau",
 		"selected_items":
 		[
+			[
+				"beau",
+				"BeautifyRuby"
+			],
 			[
 				"format",
 				"CodeFormatter: Format as HTML Syntax"
@@ -622,10 +626,6 @@
 			[
 				"form",
 				"CodeFormatter: Format Code"
-			],
-			[
-				"beau",
-				"BeautifyRuby"
 			],
 			[
 				"codefr",
@@ -693,17 +693,18 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/Ali/Documents/Projects/Websites/rails_sample_app"
 	],
 	"file_history":
 	[
-		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/app/views/users/new.html.erb",
-		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/app/helpers/users_helper.rb",
-		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/test/integration/users_signup_test.rb",
-		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/app/views/shared/_error_messages.html.erb",
-		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/app/controllers/users_controller.rb",
-		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/test/models/user_test.rb",
 		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/app/assets/stylesheets/custom.css.scss",
+		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/app/views/users/new.html.erb",
+		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/app/views/shared/_error_messages.html.erb",
+		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/test/integration/users_signup_test.rb",
+		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/app/controllers/users_controller.rb",
+		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/app/views/layouts/application.html.erb",
+		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/config/environments/production.rb",
+		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/app/helpers/users_helper.rb",
+		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/test/models/user_test.rb",
 		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/config/routes.rb",
 		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/app/views/users/show.html.erb",
 		"/Users/Ali/Library/Application Support/Sublime Text 3/Packages/User/BeautifyRuby.sublime-settings",
@@ -711,7 +712,6 @@
 		"/Users/Ali/Library/Application Support/Sublime Text 3/Packages/User/Ruby.sublime-settings",
 		"/Users/Ali/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/Users/Ali/Library/Application Support/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
-		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/app/views/layouts/application.html.erb",
 		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/app/models/user.rb",
 		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/Gemfile",
 		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/config/application.rb",
@@ -823,8 +823,7 @@
 		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/3BA581DD-07A9-4811-8F98-DECF9D95056F/synaptic.conf",
 		"/Users/Ali/Library/Caches/com.binarynights.ForkLift2/#0/gsynaptic.cc",
 		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/svm.py",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/logistic_regression.py",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/pca.py"
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/logistic_regression.py"
 	],
 	"find":
 	{
@@ -1067,6 +1066,34 @@
 		"selected_items":
 		[
 			[
+				"application",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"usersign",
+				"test/integration/users_signup_test.rb"
+			],
+			[
+				"usercontr",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"error",
+				"app/views/shared/_error_messages.html.erb"
+			],
+			[
+				"custom",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"newhtml",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"userscontrol",
+				"app/controllers/users_controller.rb"
+			],
+			[
 				"usertest",
 				"test/models/user_test.rb"
 			],
@@ -1085,10 +1112,6 @@
 			[
 				"routs",
 				"config/routes.rb"
-			],
-			[
-				"custom",
-				"app/assets/stylesheets/custom.css.scss"
 			],
 			[
 				"applic",
@@ -1214,7 +1237,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 238.0,
 	"status_bar_visible": true,
 	"template_settings":

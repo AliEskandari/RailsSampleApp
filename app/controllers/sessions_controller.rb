@@ -1,7 +1,10 @@
 class SessionsController < ApplicationController
+  
+  # Get: Login page
   def new
   end
 
+  # Post: Login info
   def create
     @user = User.find_by(email: params[:session][:email].downcase)
 
@@ -9,13 +12,14 @@ class SessionsController < ApplicationController
     if @user && @user.authenticate(params[:session][:password])
       log_in @user
       params[:session][:remember_me] == '1' ? remember(@user) : forget(@user)
-      redirect_to @user
+      redirect_back_or @user
     else
       flash.now[:danger] = "Invalid email/password"
       render 'new'
     end
   end
 
+  # Delete: Logout
   def destroy
     log_out if logged_in?
     redirect_to root_url

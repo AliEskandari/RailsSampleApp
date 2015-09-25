@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"lo",
+				"log_in_as"
+			],
+			[
 				"mess",
 				"message_type"
 			],
@@ -510,15 +514,43 @@
 			[
 				"sor",
 				"sorter-third"
-			],
-			[
-				"at",
-				"atlastdigit"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/Ali/Projects/Web/rails_sample_app/app/mailers/user_mailer.rb",
+			"settings":
+			{
+				"buffer_size": 380,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ali/Projects/Web/rails_sample_app/app/views/user_mailer/account_activation.text.erb",
+			"settings":
+			{
+				"buffer_size": 178,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ali/Projects/Web/rails_sample_app/app/views/user_mailer/account_activation.html.erb",
+			"settings":
+			{
+				"buffer_size": 302,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ali/Projects/Web/rails_sample_app/config/environments/development.rb",
+			"settings":
+			{
+				"buffer_size": 1789,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -591,17 +623,21 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 227.0,
-		"last_filter": "beau",
+		"height": 392.0,
+		"last_filter": "code",
 		"selected_items":
 		[
 			[
-				"beau",
-				"BeautifyRuby"
+				"code",
+				"CodeFormatter: Format as HTML Syntax"
 			],
 			[
 				"format",
 				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"beau",
+				"BeautifyRuby"
 			],
 			[
 				"bea",
@@ -634,10 +670,6 @@
 			[
 				"instll",
 				"Package Control: Install Package"
-			],
-			[
-				"code",
-				"CodeFormatter: Format Code"
 			],
 			[
 				"list",
@@ -697,6 +729,28 @@
 	],
 	"file_history":
 	[
+		"/Users/Ali/Projects/Web/rails_sample_app/config/routes.rb",
+		"/Users/Ali/Projects/Web/rails_sample_app/app/assets/javascripts/application.js",
+		"/Users/Ali/Projects/Web/rails_sample_app/app/controllers/static_pages_controller.rb",
+		"/Users/Ali/Projects/Web/rails_sample_app/app/views/static_pages/home.html.erb",
+		"/Users/Ali/Projects/Web/rails_sample_app/app/assets/stylesheets/static_pages.scss",
+		"/Users/Ali/Projects/Web/rails_sample_app/app/assets/stylesheets/application.css",
+		"/Users/Ali/Projects/Web/rails_sample_app/app/assets/stylesheets/custom.css.scss",
+		"/Users/Ali/Projects/Web/rails_sample_app/app/mailers/application_mailer.rb",
+		"/Users/Ali/Projects/Web/rails_sample_app/app/controllers/users_controller.rb",
+		"/Users/Ali/Projects/Web/rails_sample_app/test/controllers/users_controller_test.rb",
+		"/Users/Ali/Projects/Web/rails_sample_app/test/integration/users_index_test.rb",
+		"/Users/Ali/Projects/Web/rails_sample_app/app/models/user.rb",
+		"/Users/Ali/Projects/Web/rails_sample_app/test/fixtures/users.yml",
+		"/Users/Ali/Projects/Web/rails_sample_app/db/seeds.rb",
+		"/Users/Ali/Projects/Web/rails_sample_app/db/migrate/20150815234159_add_account_activation_to_users.rb",
+		"/Users/Ali/Projects/Web/rails_sample_app/app/views/users/index.html.erb",
+		"/Users/Ali/Projects/Web/rails_sample_app/app/helpers/users_helper.rb",
+		"/Users/Ali/Projects/Web/rails_sample_app/app/views/users/_user.html.erb",
+		"/Users/Ali/Projects/Web/rails_sample_app/db/migrate/20150815220645_add_admin_to_users.rb",
+		"/Users/Ali/Projects/Web/rails_sample_app/Gemfile",
+		"/Users/Ali/Projects/Web/rails_sample_app/sublime/rails_sample_app.sublime-project",
+		"/Users/Ali/Projects/Web/rails_sample_app/app/views/layouts/_header.html.erb",
 		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/app/assets/stylesheets/custom.css.scss",
 		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/app/views/users/new.html.erb",
 		"/Users/Ali/Documents/Projects/Websites/rails_sample_app/app/views/shared/_error_messages.html.erb",
@@ -802,29 +856,7 @@
 		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/pipeline.py",
 		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/dataset.py",
 		"/Users/Ali/Documents/Programs/Repos/kinja-api/README.md",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/scripts/scrape.rb",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/scripts/add_viewcounts.rb",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/scripts/find_diff.rb",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/scripts/addViewCounts.rb",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/transformers.py",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/label.py",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/hetero_feature_union.py",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/scripts/add_weekend_hour.rb",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/scripts/read.rb",
-		"/Users/Ali/Google Drive/Gawker/article_times.json",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/grid_search.py",
-		"/Users/Ali/Google Drive/_UMD/CMSC425/game_programming_hw.py",
-		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/C0643D40-A705-41F1-8380-7A953E1BD4C0/rglogview.cc",
-		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/45099DC0-3363-4DF7-9657-EB4C51BE31D9/synaptic.conf",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/linear_regression.py",
-		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/FCFA92CE-55C4-4C4C-9652-9A8F9784E97D/gsynaptic.cc",
-		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/FA23BCA9-833F-4DEE-971A-CC513D4428A4/synaptic.conf",
-		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/B81D579B-9BED-4189-8020-B8F49AA44AFD/Makefile",
-		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/EF84FC53-79EC-4D30-BBD0-EF7FC5D2BC44/security_bundles.json",
-		"/Users/Ali/Library/Caches/Cleanup At Startup/Transmit/3BA581DD-07A9-4811-8F98-DECF9D95056F/synaptic.conf",
-		"/Users/Ali/Library/Caches/com.binarynights.ForkLift2/#0/gsynaptic.cc",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/svm.py",
-		"/Users/Ali/Documents/Programs/Repos/kinja-api/Machine Learning/logistic_regression.py"
+		"/Users/Ali/Documents/Programs/Repos/kinja-api/Dataset/scripts/scrape.rb"
 	],
 	"find":
 	{
@@ -843,6 +875,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"custom.css",
+			"@user",
+			"Patch",
+			"Post",
+			"Get",
 			"Rails",
 			"pass",
 			"email",
@@ -965,12 +1002,7 @@
 			"year",
 			"_features",
 			"viewType",
-			"20000",
-			"10000",
-			"5000",
-			"1000",
-			"d",
-			"2007"
+			"20000"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1001,8 +1033,141 @@
 	"groups":
 	[
 		{
+			"selected": 3,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/Ali/Projects/Web/rails_sample_app/app/mailers/user_mailer.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								380,
+								380
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Ali/Projects/Web/rails_sample_app/app/views/user_mailer/account_activation.text.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/Ali/Projects/Web/rails_sample_app/app/views/user_mailer/account_activation.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								158,
+								158
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/Ali/Projects/Web/rails_sample_app/config/environments/development.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								722,
+								722
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1068,23 +1233,123 @@
 		[
 			[
 				"application",
-				"app/views/layouts/application.html.erb"
+				"app/assets/stylesheets/application.css"
 			],
 			[
-				"usersign",
-				"test/integration/users_signup_test.rb"
+				"custom",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"home",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"",
+				"config/routes.rb"
+			],
+			[
+				"static",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"development",
+				"config/environments/development.rb"
+			],
+			[
+				"account",
+				"app/views/user_mailer/account_activation.html.erb"
+			],
+			[
+				"accountactivation.t",
+				"app/views/user_mailer/account_activation.text.erb"
+			],
+			[
+				"mailapp",
+				"app/mailers/application_mailer.rb"
+			],
+			[
+				"user",
+				"app/mailers/user_mailer.rb"
+			],
+			[
+				"user.y",
+				"test/fixtures/users.yml"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"addacco",
+				"db/migrate/20150815234159_add_account_activation_to_users.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"indextest",
+				"test/integration/users_index_test.rb"
+			],
+			[
+				"usercon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"usercontroller",
+				"test/controllers/users_controller_test.rb"
+			],
+			[
+				"use",
+				"test/fixtures/users.yml"
+			],
+			[
+				"_user",
+				"app/views/users/_user.html.erb"
+			],
+			[
+				"addadmin",
+				"db/migrate/20150815220645_add_admin_to_users.rb"
+			],
+			[
+				"userind",
+				"test/integration/users_index_test.rb"
+			],
+			[
+				"users",
+				"test/fixtures/users.yml"
 			],
 			[
 				"usercontr",
 				"app/controllers/users_controller.rb"
 			],
 			[
-				"error",
-				"app/views/shared/_error_messages.html.erb"
+				"gem",
+				"Gemfile"
 			],
 			[
-				"custom",
-				"app/assets/stylesheets/custom.css.scss"
+				"index",
+				"app/views/users/index.html.erb"
+			],
+			[
+				"header",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"seeds",
+				"db/seeds.rb"
+			],
+			[
+				"usersign",
+				"test/integration/users_signup_test.rb"
+			],
+			[
+				"error",
+				"app/views/shared/_error_messages.html.erb"
 			],
 			[
 				"newhtml",
@@ -1103,10 +1368,6 @@
 				"app/views/users/new.html.erb"
 			],
 			[
-				"users",
-				"app/helpers/users_helper.rb"
-			],
-			[
 				"userscontr",
 				"app/controllers/users_controller.rb"
 			],
@@ -1117,10 +1378,6 @@
 			[
 				"applic",
 				"app/views/layouts/application.html.erb"
-			],
-			[
-				"user",
-				"app/models/user.rb"
 			],
 			[
 				"gemfil",
@@ -1172,10 +1429,14 @@
 	},
 	"select_symbol":
 	{
-		"height": 47.0,
-		"last_filter": "beauty",
+		"height": 392.0,
+		"last_filter": "gravat",
 		"selected_items":
 		[
+			[
+				"gravat",
+				"gravatar_for"
+			],
 			[
 				"beauty",
 				"Beauty"
@@ -1238,7 +1499,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 238.0,
 	"status_bar_visible": true,
 	"template_settings":
